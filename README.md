@@ -3,8 +3,8 @@
 ### This website will exist as a repository for notes during the 201 course.
 
 #### Table of Contents
-1. [Day 1 Notes](./Page1.md)
-2. [Day 2 Notes](./Page2.md)
+1. [Day 1 Notes](./page1.md)
+2. [Day 2 Notes](./page2.md)
 3. [Day 3 Notes](./page3.md)
 4. [Day 4 Notes](./page4.md)
 5. [Day 5 Notes](./page5.md)
