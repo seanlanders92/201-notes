@@ -1,6 +1,6 @@
 ## Day 2 notes
 
->A, C, P = Add commit push 
+> A, C, P = Add commit push 
 
 > git add . will add all the files.
 
@@ -16,4 +16,6 @@
 
 > conditionals : if(condition){code} , else, else if. toLowerCase type variable in lowercase.
 
->switch statement switch(variable){case 'apple'} alert () break; end the switch statement. default:
+> switch statement switch(variable){case 'apple'} alert () break; end the switch statement. default:
+
+> Arrays, var cats=['josie', 'belle', 'frodo']
