@@ -1,6 +1,6 @@
 ### Reading 07
 #### HTML chapter 6
-> - The <table> element is used to create a table. The contents of the table are written out row by row.
+<!--->> - The <table> element is used to create a table. The contents of the table are written out row by row.
 
 > - <tr> You indicate the start of each row using the opening <tr> tag. (The tr stands for table row.)
 
@@ -16,4 +16,4 @@
 
 #### JS Chapter 3
 
-> - 
+--->
