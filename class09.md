@@ -15,7 +15,3 @@
 
 > - The border-spacing property allows you to control the distance between adjacent cells. By default, browsers often leave a small gap between each table cell, so if you want to increase or decrease this space then the border-spacing property allows you to control the gap.
 > - The cursor property allows you to control the type of mouse cursor that should be displayed to users.
-
-#### Chapter 6 Events
-
-> - 
