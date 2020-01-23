@@ -1,0 +1,3 @@
+### Reading 14
+
+> The way google studied how to create the perfect team was interesting, however I think there is one fundamental flaw with their approach. They were trying to find commonalities between all these effective groups which at first appears to be the correct solution. Once they started struggling to find commonalities between groups they shouold have changed their perspective. Rather than find the one thing that binds all groups together they should have found the things that bound each individual group together. You create for example 5 boxes that people fit into instead of trying to find the one box everyone fits into. 
